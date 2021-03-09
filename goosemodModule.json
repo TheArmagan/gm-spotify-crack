@@ -1,0 +1,8 @@
+{
+  "name": "Spotify Crack",
+  "main": "index.js",
+  "description": "Allows you to listen along with discord users without premium.",
+  "version": "1.0.0",
+  "tags": ["port", "backend"],
+  "authors": ["707309693449535599", "eternal"]
+}
